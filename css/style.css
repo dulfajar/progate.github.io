@@ -8,7 +8,7 @@ body {
 }
 
 .bg {
-    background-image: url("AngelaChris-prewedding-HD-0291.jpg");
+    background-image: url("https://img.freepik.com/free-photo/wedding-rings-wooden-background_182029-556.jpg");
     height: 100%;
     width: auto;
     background-position: center;
@@ -17,7 +17,7 @@ body {
 }
 
 .bg-bawah {
-    background-image: url("AngelaChris-prewedding-HD-0291.jpg");
+    background-image: url("https://img.freepik.com/free-photo/wedding-rings-wooden-background_182029-556.jpg");
     height: 450px;
     width: auto;
     background-position: center;
@@ -101,7 +101,7 @@ body {
 
 .parallax {
   /* The image used */
-  background-image: url("../img/1.jpg");
+  background-image: url("https://img.freepik.com/free-vector/engraving-hand-drawn-floral-background_52683-67534.jpg?t=st=1647448599~exp=1647449199~hmac=659e463d6e423701f7f49a53f21b3e27b03fde8a8352e9d5a0d6d75136816e46&w=996");
 
   /* Set a specific height */
   height: 500px;
@@ -136,7 +136,7 @@ nav p {
 }
 
 .bg-1 {
-    background-image: url("../img/wp1862844.jpg");
+    background-image: url("https://media.istockphoto.com/photos/valentines-day-card-ribbon-shaped-hearts-on-shiny-background-picture-id636264250?b=1&k=20&m=636264250&s=170667a&w=0&h=eSIm-dkmSP2ZmZBEopwEcWqnYn_2FFps_AFeQ4FxqpU=");
     width: auto;
     height: auto;
     background-position: center;
@@ -232,7 +232,7 @@ bg-1 img {
 }
 
 .bg-2 {
-    background-image: url("../img/wp1862844.jpg");
+    background-image: url("https://media.istockphoto.com/photos/valentines-day-card-ribbon-shaped-hearts-on-shiny-background-picture-id636264250?b=1&k=20&m=636264250&s=170667a&w=0&h=eSIm-dkmSP2ZmZBEopwEcWqnYn_2FFps_AFeQ4FxqpU=");
     width: auto;
     height: auto;
     background-position: center;
